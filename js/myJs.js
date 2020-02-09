@@ -109,7 +109,7 @@ $('#yes').click(function() {
               no-repeat
             `,
         showCancelButton: true,
-        cancelButtonText: "Thôi chuyển khoản luôn nhé :<<",
+        cancelButtonText: "Thôi ngại lém :<<",
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
